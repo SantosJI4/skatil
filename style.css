@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: rgba(32, 34, 39, 0.61);;
+    color: white;
+}
+.container {
+    text-align: center;
+
+}
+.media img {
+    max-width: 100%;
+    height: auto;
+}
+.sidebar-title {
+    background-color: rgba(32, 34, 39, 0.61);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.section-title {
+    
+    background-color: rgba(32, 34, 39, 0.61);
+    padding: 10px;
+    border-radius: 5px;
+}
+#skates h1{
+    background-color: rgba(45, 48, 54, 0.61);
+    padding: 10px;
+    border-radius: 5px;
+}
+#Ultimas-Noticias h5{
+color: #ccc;
+}
