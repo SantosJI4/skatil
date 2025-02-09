@@ -1,9 +1,9 @@
 {
-    "version": 2,
-    "rewrites": [
+  "version": 2,
+  "rewrites": [
     { "source": "/(.*)", "destination": "/inicio.html" }
-    ],
-    "routes": [
+  ],
+  "routes": [
     { "src": "/(.*\\.(js|css|png|jpg|jpeg|gif|svg))", "dest": "/$1" }
-    ]
-  }
+  ]
+}
